@@ -1,6 +1,6 @@
 {
   "name": "buzz",
-  "description": "Function",
+  "description": "buzzphrase generator",
   "args": [
     "iterations"
   ],

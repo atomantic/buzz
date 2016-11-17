@@ -15,6 +15,11 @@ const buzzphrase = require('buzzphrase')
 */
 module.exports = (params, callback) => {
 
-  callback(null, buzzphrase.getPhrase(params.args[0]||1));
+  callback(
+    null,
+    buzzphrase.getPhrase(
+      params.args[0]||1
+    )
+  )
 
-};
+}

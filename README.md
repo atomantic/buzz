@@ -1,7 +1,7 @@
 # A Standard Buzzphrase Generator: antic/buzz
 
 ## Standard Lib
-This is a standard lib wrapper for [buzzphrase](https://www.npmjs.com/package/buzzphrase)
+This is a [standard lib](https://stdlib.com/) wrapper for [buzzphrase](https://www.npmjs.com/package/buzzphrase)
 
 Mainly this exists just as a way for me to play with `serverless` frameworks and platforms.
 
@@ -20,4 +20,18 @@ f antic/buzz
 f antic/buzz 2
 f antic/buzz 3
 # etc...
+```
+
+## Hacking on this project
+
+### Setup
+```
+git clone git@github.com:atomantic/buzz.git
+cd buzz
+npm i
+```
+
+### Running it
+```
+f .
 ```

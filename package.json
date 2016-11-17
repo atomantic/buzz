@@ -1,7 +1,7 @@
 {
   "name": "buzz",
   "version": "1.0.1",
-  "description": "Service",
+  "description": "buzzphrase generator",
   "author": "antic <atomantic@gmail.com>",
   "main": "f/buzz/index.js",
   "dependencies": {
@@ -11,7 +11,7 @@
   "stdlib": {
     "name": "antic/buzz",
     "defaultFunction": "buzz",
-    "timeout": 10000,
-    "publish": false
+    "timeout": 5000,
+    "publish": true
   }
 }
