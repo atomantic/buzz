@@ -1,0 +1,12 @@
+{
+  "name": "buzz",
+  "description": "Function",
+  "args": [
+    "iterations"
+  ],
+  "kwargs": {
+  },
+  "http": {
+    "headers": {}
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "buzz",
+  "version": "1.0.1",
+  "description": "Service",
+  "author": "antic <atomantic@gmail.com>",
+  "main": "f/buzz/index.js",
+  "dependencies": {
+    "buzzphrase": "2.1.8"
+  },
+  "private": true,
+  "stdlib": {
+    "name": "antic/buzz",
+    "defaultFunction": "buzz",
+    "timeout": 10000,
+    "publish": false
+  }
+}
