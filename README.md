@@ -16,8 +16,8 @@ curl https://f.stdlib.com/antic/buzz
 
 before using, you'll need the [stdlib](https://stdlib.com/) cli:
 ```
-npm i -g lib
-# see setup instructions here: https://github.com/atomantic/stdlib
+npm install lib.cli -g
+# see setup instructions here: https://github.com/stdlib/lib
 ```
 
 Then you can run the remote standard lib

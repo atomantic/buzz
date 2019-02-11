@@ -1,17 +1,20 @@
 {
   "name": "buzz",
-  "version": "1.0.1",
-  "description": "buzzphrase generator",
+  "version": "0.1.0",
+  "description": "",
   "author": "antic <atomantic@gmail.com>",
-  "main": "f/buzz/index.js",
+  "main": "functions/__main__.js",
   "dependencies": {
-    "buzzphrase": "2.1.9"
+    "buzzphrase": "2.5.4"
   },
   "private": true,
   "stdlib": {
+    "build": "faaslang",
     "name": "antic/buzz",
-    "defaultFunction": "buzz",
-    "timeout": 5000,
-    "publish": true
+    "timeout": 10000,
+    "personalize": {
+      "keys": [],
+      "user": []
+    }
   }
 }
