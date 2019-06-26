@@ -5,7 +5,7 @@
   "author": "antic <atomantic@gmail.com>",
   "main": "f/buzz/index.js",
   "dependencies": {
-    "buzzphrase": "2.1.9"
+    "buzzphrase": "2.5.4"
   },
   "private": true,
   "stdlib": {
